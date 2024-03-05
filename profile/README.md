@@ -20,10 +20,52 @@ Over the next ten years, the impact of InGAME will generate	£84.7 million in gr
 * [People & Partners](#people-and-partners)
 
 ## Impact
+In 2023, Biggar Economics were commissioned to undertake an independent economic impact analysis of the InGAME. The Economic Impact of InGAME was published in July 2023 and concluded that:
+
+> _InGAME has helped to establish a thriving digital innovation ecosystem that will help sustain and grow Dundee’s games cluster. It is expected to generate a total of £84.7 million GVA for the Scottish economy over 10 years and support around 175 jobs._
+
+[Download _The Economic Impact of InGAME_ (Biggar Economics 2023).pdf](https://github.com/IngameDundee/.github/files/14493542/InGame.Economic.Impact.-.Final.pdf)
+
 
 ## Insights
+**MAINBEAM**<br>
+MAINBEAM explores the potential of game design tools, techniques and technologies to recreate and reimagine performance art.<br>
+[![Watch the video](https://img.youtube.com/vi/DWwuY5ocGn4/hqdefault.jpg)](https://www.youtube.com/embed/DWwuY5ocGn4)<br>
+
+**TIP**<br>
+Tip explores how game technologies such as virtual reality and augmented reality might be used to reconnect people with their history unite people in shared appreciation of their culture and heritage.<br>
+[![Watch the video](https://img.youtube.com/vi/Ft8kOzQfpzI/hqdefault.jpg)](https://www.youtube.com/embed/Ft8kOzQfpzI)<br>
+
+**TAY 5G Virtual Production**<br>
+InGAME facilitated a pioneering Tay5G use case trial, marking the UK's first instance of employing Virtual Production film techniques via a 5G network across two distinct locations. This trial, AI Armageddon, leveraged the high-speed capabilities of 5G to synchronise industry-standard digital backdrop screens situated in studios located in Dundee and Manchester.<br>
+[![Watch the video](https://img.youtube.com/vi/MCmoiJWIXDQ/hqdefault.jpg)](https://www.youtube.com/embed/MCmoiJWIXDQ)<br>
+
+**Sound of Light**<br>
+Sound of Light is a multiplayer VR sound performance project. It uses the Oculus Quest's hand tracking feature to trigger sound with various hand gestures. The idea behind this project is to create an anonymous and non-verbal play to explore how people can engage through those alternative methods of communication and see what we can feel.<br>
+[![Watch the video](https://img.youtube.com/vi/Btc2prSHH1s/hqdefault.jpg)](https://www.youtube.com/embed/Btc2prSHH1s)
+
+**InGAME Applied Games Lab**<br>
+The Applied Games Lab utilises game design thinking and game technologies outside games. The Lab harnesses the awesome innovation potential of videogames to provoke breakthrough solutions to known but difficult real-world challenges, solving wicked problems and inventing radical new futures. [Find out more](https://innovationforgames.com/theappliedgameslab/).<br>
+[![Watch the video](https://img.youtube.com/vi/8ww0p_GeuzY/hqdefault.jpg)](https://www.youtube.com/embed/8ww0p_GeuzY)<br>
+
+**Applied Games LaB: Net Zero Catalyser**<br>
+The Applied Games Lab: Net Zero Catalyser explores how game design tools, techniques and technologies could accelerate the green transition in the UK's GLAM sector (Galleries, Libraries and Museums).<br>
+[![Watch the video](https://img.youtube.com/vi/Pc0e_R2nOWY/hqdefault.jpg)](https://www.youtube.com/embed/Pc0e_R2nOWY)
+
+**InGAME End of Project Evaluation** 
+In October 2023, The University of St Andrews [Institute for Capitalising on Creativity]((https://icc.wp.st-andrews.ac.uk) (ICC)  published an evaluation of how InGAME  grew scale and value for the Dundee videogames cluster. Written by ICC staff researcher Melinda Grewar and Professor Shiona Chillas, the report also provides case studies and an evaluation of the intermediary role played by InGAME’s research & development team, as it helped local companies adapt to opportunities and challenges facing the industry.
+
+[Download ICC InGAME_Cluster_Programme_Report_2023.pdf](https://github.com/IngameDundee/.github/files/14493532/InGAME_Cluster_Programme_Report_2023.pdf)
 
 ## Innovation Toolbox
+* [**Resolver - The InGAME Innovation Toolbox**](https://innovationforgames.com/resolver/)<br>
+Tools, toolkits & playbooks to help you throughout the lifecycle of innovation projects.
+
+* [**Creativity Amplification by Dr Lynda Clark**](https://github.com/IngameDundee/CreativityAmplification)<br>
+A collection of tools, processes, experiments and case studies to aid writers wanting to work with technology.
+
+* [**Sound of Light by Dr Jung In Jung**](https://github.com/IngameDundee/SoundOfLight)**<br>
+Multiplayer VR Sound Performance Project using Oculus Quest hand tracking feature
 
 ## People and Partners
 ### Project Direction & Delivery
@@ -92,16 +134,3 @@ InGAME is delivered by Abertay University, in partnership with the University of
 
 <sup>InGAME: Innovation for Games and Media Enterprise (October 2018 - March 2024)</sup>
 
-
-
-
-  
-
-
-<!--
-To do
-- [ ] Complete first pass of each section
-- [ ] Upload supporting materials
-- [ ] Complete first pass of linkage
-
--->
