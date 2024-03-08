@@ -34,7 +34,7 @@ MAINBEAM explores the potential of game design tools, techniques and technologie
 
 **TIP**<br>
 Tip explores how game technologies such as virtual reality and augmented reality might be used to reconnect people with their history unite people in shared appreciation of their culture and heritage.<br>
-[![Watch the video](https://img.youtube.com/vi/Ft8kOzQfpzI/hqdefault.jpg)](https://www.youtube.com/embed/Ft8kOzQfpzI)<br>
+[![Watch the video](https://img.youtube.com/vi/bVlXx7Zh4Kg/hqdefault.jpg)](https://www.youtube.com/embed/bVlXx7Zh4Kg)<br>
 
 **TAY 5G Virtual Production**<br>
 InGAME facilitated a pioneering Tay5G use case trial, marking the UK's first instance of employing Virtual Production film techniques via a 5G network across two distinct locations. This trial, AI Armageddon, leveraged the high-speed capabilities of 5G to synchronise industry-standard digital backdrop screens situated in studios located in Dundee and Manchester.<br>
