@@ -20,7 +20,7 @@ Over the next ten years, the impact of InGAME will generate	£84.7 million in gr
 * [People & Partners](#people-and-partners)
 
 ## Impact
-In 2023, Biggar Economics were commissioned to undertake an independent economic impact analysis of the InGAME. The Economic Impact of InGAME was published in July 2023 and concluded that:
+The Economic Impact of InGAME, an an independent economic impact analysis by Biggar Economics, was published in July 2023.
 
 > _InGAME has helped to establish a thriving digital innovation ecosystem that will help sustain and grow Dundee’s games cluster. It is expected to generate a total of £84.7 million GVA for the Scottish economy over 10 years and support around 175 jobs._
 
